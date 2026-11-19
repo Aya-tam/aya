@@ -1,4 +1,12 @@
 **19-11 Huiswerk**
+Mini styleguide
+<img width="244" height="195" alt="Screenshot 2026-11-19 at 20 35 32" src="https://github.com/user-attachments/assets/557df734-9166-4e34-b807-5a6368bb4d94" />
+<img width="624" height="404" alt="Screenshot 2026-11-19 at 20 35 26" src="https://github.com/user-attachments/assets/13348250-20f8-4263-b04a-28215486ad4d" />
+
+Ik heb meerdere kleurenpaletten gemaakt. Ik vind dat deze kleuren goed passen bij de sfeerwoorden blij, vrij en vrolijk, omdat ze kleurrijk zijn. 
+
+Ik heb ook verschillende lettertypes uitgeprobeerd. Ik vind dat ze allemaal een vrolijke, vrije en blije uitstraling hebben. Door de afwisseling van dunne en dikke lijnen en doordat de letters vrij geschreven zijn en niet zo strak of scherp ogen, vind ik dat ze een vrolijk gevoel uitstralen.
+
 5 schetsen 
 <img width="2778" height="1738" alt="CamScanner 19-11-2026 19 05_2" src="https://github.com/user-attachments/assets/c765978b-4ad5-41b9-946c-93040bee5a78" />
 <img width="2679" height="1585" alt="CamScanner 19-11-2026 19 05_1" src="https://github.com/user-attachments/assets/a72b1113-52aa-42c3-8f0d-a0699050a751" />
