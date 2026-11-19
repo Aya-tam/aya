@@ -1,4 +1,11 @@
-18-11 Visual Research
+**19-11 Huiswerk**
+5 schetsen 
+<img width="2778" height="1738" alt="CamScanner 19-11-2026 19 05_2" src="https://github.com/user-attachments/assets/c765978b-4ad5-41b9-946c-93040bee5a78" />
+<img width="2679" height="1585" alt="CamScanner 19-11-2026 19 05_1" src="https://github.com/user-attachments/assets/a72b1113-52aa-42c3-8f0d-a0699050a751" />
+Ik heb eigenlijk 6 schetsen gemaakt. De zesde spreekt mij het meest aan, omdat ik mijn digital garden graag over schilderen en reizen wil laten gaan. Ik weet nog niet zeker of deze twee onderwerpen goed te combineren zijn, maar schilderen wil ik er heel graag in terug laten komen! Uit de sfeerwoorden van de Visual Research les heb ik **blij**, **vrij** en **vrolijk** gekozen. Deze gevoelens passen goed bij schilderen en reizen, omdat ik mij bij beide activiteiten blij/vrolijk en vrij voel.
+
+
+**18-11 Visual Research**
 Wat zijn de beste ideeën en waarom?
 Het beste idee is de smiley met de vrije vorm en het bloemetje. Dit geeft een blij, vrolijk en vrij gevoel.
 
@@ -22,7 +29,11 @@ Is het idee leuk en verrassend?
 
 Ja, het idee is leuk en verrassend. Er is zeker zin om dit ontwerp te maken!
 
-Kick Off 09-11 
+**Crazy 8** 
+<img width="3264" height="2420" alt="CamScanner 19-11-2026 19 06_1" src="https://github.com/user-attachments/assets/06e7324d-c7fb-4074-abc1-295aa98a42ed" />
+
+
+**Kick Off 09-11**
 1- Een source hosting platform is een plek waar je online je code kunt opslaan. Ik heb gekozen voor GitHub.
 2- Mijn domeinnaam is ayasworld.nl
 3- Ik pas mijn bestanden aan in VSCodium. Daarna sla ik ze op, maak ik een commit en synchroniseer ik de wijzigingen met GitHub.
