@@ -1,10 +1,26 @@
 18-11 Visual Research
-Wat zijn de beste ideeën en waarom? De beste idee is de smiley met de vrije vorm en het bloemetje, het geeft de vrolijke en blije en vrije vorm
-en waarom de andere minder? de andere zijn ook leuke maar de 5de vond ik het beste
-Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar? Ja het is goed zichtbaar, in alle schetsen zie ik blij, vrij, vrolijk
-Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond? het is wel online te vertalen maar is best uitdaging, kan getoond zijn door vrolijke kleuren, vrije vormen en lettertype.
-Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je? Ja zeker, er is genoeg uitdaging.
-Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken? het idee is leuk, ik heb zeker zin om dit ontwerp te maken.
+Wat zijn de beste ideeën en waarom?
+Het beste idee is de smiley met de vrije vorm en het bloemetje. Dit geeft een blij, vrolijk en vrij gevoel.
+
+Waarom zijn de andere ideeën minder goed?
+
+De andere ideeën zijn ook leuk, maar de vijfde spreekt het meest aan.
+
+Zijn de uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+
+Ja, in alle schetsen komen blij, vrij en vrolijk duidelijk terug.
+
+Is het idee online te vertalen?
+
+Ja, maar het is best een uitdaging. Dit kan met vrolijke kleuren, vrije vormen en een passend lettertype.
+
+Is het idee expressief? Zit er genoeg uitdaging in?
+
+Ja, er is genoeg uitdaging met nieuwe CSS technieken, animaties en transities.
+
+Is het idee leuk en verrassend?
+
+Ja, het idee is leuk en verrassend. Er is zeker zin om dit ontwerp te maken!
 
 Kick Off 09-11 
 1- Een source hosting platform is een plek waar je online je code kunt opslaan. Ik heb gekozen voor GitHub.
