@@ -51,6 +51,8 @@ Ja, het idee is leuk en verrassend. Er is zeker zin om dit ontwerp te maken!
 
 **Crazy 8** 
 <img width="3264" height="2420" alt="CamScanner 19-11-2026 19 06_1" src="https://github.com/user-attachments/assets/06e7324d-c7fb-4074-abc1-295aa98a42ed" />
+**S0 - Schetsen van o.a. interactie en animatie**
+<img width="1572" height="1993" alt="CamScanner 20-11-2026 19 54_1" src="https://github.com/user-attachments/assets/198903a7-8c40-45e9-9e32-5d06ec8358ef" />
 
 **S0 - Interactie: MMD, micro-interacties, forms**
 <img width="2787" height="1677" alt="CamScanner 20-11-2026 19 32_1" src="https://github.com/user-attachments/assets/b7a36ccc-a2a2-4f35-bf12-9d385e1b5552" />
