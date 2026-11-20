@@ -1,5 +1,7 @@
 **20-11** 
+Feedback van een medestudent
 1. zijn je schetsen Webby genoeg? Ja, mijn schetsen zijn webby genoeg, omdat het past in een scherm, het is leuk en verrassend en hiermee kan ik veel doen met interactie, knoppen en nog veel.
+2. opzet in html: Ik kan mijn schermen op verschillende manieren realiseren, door bijvoorbeeld een bloemtje als button te gebruiken, interactie en nog veel creatieve manieren.
 
 **19-11 Huiswerk**
 Mini styleguide
