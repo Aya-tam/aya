@@ -52,6 +52,16 @@ Ja, het idee is leuk en verrassend. Er is zeker zin om dit ontwerp te maken!
 **Crazy 8** 
 <img width="3264" height="2420" alt="CamScanner 19-11-2026 19 06_1" src="https://github.com/user-attachments/assets/06e7324d-c7fb-4074-abc1-295aa98a42ed" />
 
+**S0 - CSS: fonts met kleur en effecten**
+<img width="259" height="261" alt="Screenshot 2026-11-20 at 21 38 53" src="https://github.com/user-attachments/assets/d038a693-0c00-4afd-aeec-9b226837f7f9" />
+<img width="1437" height="779" alt="Screenshot 2026-11-20 at 21 35 47" src="https://github.com/user-attachments/assets/1811c983-dee3-43d3-9de1-15b52f049240" />
+<img width="1440" height="900" alt="Screenshot 2026-11-20 at 21 35 40" src="https://github.com/user-attachments/assets/e89265c7-d22f-48cf-ba03-b38b727eed5c" />
+<img width="1440" height="859" alt="Screenshot 2026-11-20 at 21 20 01" src="https://github.com/user-attachments/assets/6e5393b2-42a5-4861-9572-0c15ed0825d9" />
+<img width="1440" height="900" alt="Screenshot 2026-11-20 at 21 19 52" src="https://github.com/user-attachments/assets/4df698b0-d26c-4d3a-b9a6-22966e8ab3a2" />
+<img width="1440" height="861" alt="Screenshot 2026-11-20 at 21 13 09" src="https://github.com/user-attachments/assets/d66ab788-7aab-499e-ab19-d7c03eb806fa" />
+<img width="1440" height="900" alt="Screenshot 2026-11-20 at 21 12 57" src="https://github.com/user-attachments/assets/de1f4d54-9139-4fc0-abb5-ea6e819bccc4" />
+<img width="1440" height="777" alt="Screenshot 2026-11-20 at 20 41 25" src="https://github.com/user-attachments/assets/b802c257-e1e8-458c-ac78-f6cf2ab4c65b" />
+
 **S0 - Praktische CSS**
 <img width="1440" height="777" alt="Screenshot 2026-11-20 at 20 41 25" src="https://github.com/user-attachments/assets/f543b190-f5c5-4b1d-bc4a-163e7016a638" />
 
