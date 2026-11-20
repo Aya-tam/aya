@@ -52,6 +52,8 @@ Ja, het idee is leuk en verrassend. Er is zeker zin om dit ontwerp te maken!
 **Crazy 8** 
 <img width="3264" height="2420" alt="CamScanner 19-11-2026 19 06_1" src="https://github.com/user-attachments/assets/06e7324d-c7fb-4074-abc1-295aa98a42ed" />
 
+**S0 - Interactie: MMD, micro-interacties, forms**
+<img width="2787" height="1677" alt="CamScanner 20-11-2026 19 32_1" src="https://github.com/user-attachments/assets/b7a36ccc-a2a2-4f35-bf12-9d385e1b5552" />
 
 **Kick Off 09-11**
 1- Een source hosting platform is een plek waar je online je code kunt opslaan. Ik heb gekozen voor GitHub.
