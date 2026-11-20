@@ -2,6 +2,8 @@
 Feedback van een medestudent
 1. zijn je schetsen Webby genoeg? Ja, mijn schetsen zijn webby genoeg, omdat het past in een scherm, het is leuk en verrassend en hiermee kan ik veel doen met interactie, knoppen en nog veel.
 2. opzet in html: Ik kan mijn schermen op verschillende manieren realiseren, door bijvoorbeeld een bloemtje als button te gebruiken, interactie en nog veel creatieve manieren.
+<img width="2069" height="2072" alt="CamScanner 20-11-2026 09 54_1" src="https://github.com/user-attachments/assets/09289cec-c2c9-481a-8195-6b0ddef18050" />
+
 
 **19-11 Huiswerk**
 Mini styleguide
