@@ -1,6 +1,8 @@
 **20-11** 
 Schetsen Layout
 <img width="2504" height="2000" alt="CamScanner 20-11-2026 11 10_1" src="https://github.com/user-attachments/assets/5c51ec0b-e126-4d41-9fcd-54e2ea43168d" />
+<img width="567" height="582" alt="Screenshot 2026-11-20 at 11 21 20" src="https://github.com/user-attachments/assets/ba35a562-b301-47b5-b027-9fd4ef178531" />
+
 
 Feedback van een medestudent
 1. zijn je schetsen Webby genoeg? Ja, mijn schetsen zijn webby genoeg, omdat het past in een scherm, het is leuk en verrassend en hiermee kan ik veel doen met interactie, knoppen en nog veel.
