@@ -1,3 +1,6 @@
+**20-11** 
+1. zijn je schetsen Webby genoeg? Ja, mijn schetsen zijn webby genoeg, omdat het past in een scherm, het is leuk en verrassend en hiermee kan ik veel doen met interactie, knoppen en nog veel.
+
 **19-11 Huiswerk**
 Mini styleguide
 <img width="244" height="195" alt="Screenshot 2026-11-19 at 20 35 32" src="https://github.com/user-attachments/assets/557df734-9166-4e34-b807-5a6368bb4d94" />
