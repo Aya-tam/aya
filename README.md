@@ -1,4 +1,9 @@
 **20-11** 
+Practicum mooie kleuren en gradients
+<img width="1440" height="780" alt="Screenshot 2026-11-21 at 21 28 15" src="https://github.com/user-attachments/assets/9d5eec78-a77e-4ba1-af80-f2bfa7c1479e" />
+<img width="1440" height="774" alt="Screenshot 2026-11-21 at 21 21 56" src="https://github.com/user-attachments/assets/383b2597-4da7-4197-b2c1-206bfe49a26f" />
+<img width="1440" height="783" alt="Screenshot 2026-11-21 at 21 06 33" src="https://github.com/user-attachments/assets/d24e6055-6ded-4f4e-a9aa-839ef6b05637" />
+
 Schetsen Layout
 <img width="2504" height="2000" alt="CamScanner 20-11-2026 11 10_1" src="https://github.com/user-attachments/assets/5c51ec0b-e126-4d41-9fcd-54e2ea43168d" />
 <img width="567" height="582" alt="Screenshot 2026-11-20 at 11 21 20" src="https://github.com/user-attachments/assets/ba35a562-b301-47b5-b027-9fd4ef178531" />
