@@ -1,4 +1,10 @@
 **20-11** 
+Practicum Grid 101 + Media queries
+<img width="1440" height="773" alt="Screenshot 2026-11-21 at 22 36 03" src="https://github.com/user-attachments/assets/b71e6bd7-67d8-497c-9067-bccf87437352" />
+<img width="1440" height="777" alt="Screenshot 2026-11-21 at 22 13 43" src="https://github.com/user-attachments/assets/261e768f-3738-48a0-b997-55fb5a9471f6" />
+<img width="1440" height="781" alt="Screenshot 2026-11-21 at 22 01 08" src="https://github.com/user-attachments/assets/71e3f6ce-f36b-4b99-9ed7-486345674ae0" />
+<img width="1440" height="785" alt="Screenshot 2026-11-21 at 21 57 01" src="https://github.com/user-attachments/assets/8b759356-d68f-481b-bd8c-ec9a744d52b2" />
+
 Practicum mooie kleuren en gradients
 <img width="1440" height="780" alt="Screenshot 2026-11-21 at 21 28 15" src="https://github.com/user-attachments/assets/9d5eec78-a77e-4ba1-af80-f2bfa7c1479e" />
 <img width="1440" height="774" alt="Screenshot 2026-11-21 at 21 21 56" src="https://github.com/user-attachments/assets/383b2597-4da7-4197-b2c1-206bfe49a26f" />
