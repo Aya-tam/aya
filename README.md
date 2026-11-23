@@ -1,3 +1,9 @@
+**Mobiel scherm**
+<img width="501" height="655" alt="Screenshot 2026-11-23 at 18 25 40" src="https://github.com/user-attachments/assets/3caea64d-b672-44c6-a1aa-d3097891bb07" />
+<img width="500" height="653" alt="Screenshot 2026-11-23 at 18 02 37" src="https://github.com/user-attachments/assets/24028294-b0b9-4d3f-a160-f8a188d20bd0" />
+<img width="1440" height="773" alt="Screenshot 2026-11-23 at 17 54 53" src="https://github.com/user-attachments/assets/68bfc536-be2b-4fdc-a6ee-c62f127d7305" />
+Ik heb nu mijn eerste opzet voor het mobiele scherm gemaakt, met zowel een dark als een light mode. Het idee is om mijn schilderijen op een soort museumachtige manier te presenteren. Hiervoor heb ik de CSS Grid methode gebruikt en twee kolommen gemaakt voor het mobiele scherm. Op een breder scherm wil ik dat er automatisch meerdere kolommen verschijnen.
+
 **Bi-weekly geek**
 **Onderzoekmethode: LiteratureStudy**
 Toegang tot internet is een recht van ieder mens en mag daarom nooit worden afgesloten, ook niet vanwege schendigen van het auteursrecht of politieke onrust. Dat concludeert de Mensenrechtenraad van de Verenigde Naties.
