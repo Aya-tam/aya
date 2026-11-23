@@ -1,3 +1,21 @@
+**Bi-weekly geek**
+**Onderzoekmethode: LiteratureStudy**
+Toegang tot internet is een recht van ieder mens en mag daarom nooit worden afgesloten, ook niet vanwege schendigen van het auteursrecht of politieke onrust. Dat concludeert de Mensenrechtenraad van de Verenigde Naties.
+
+Toegang tot internet is belangrijk voor de vrijheid van meningsuiting, concludeert speciaal rapporteur Frank La Rue van de Mensenrechtenraad in een rapport, dat vrijdag is gepresenteerd voor de Mensenrechtenraad. De raad kan zich vinden in de conclusies van La Rue, blijkt uit het verslag.
+Bron: https://tweakers.net/nieuws/74865/vn-internettoegang-is-mensenrecht-en-mag-nooit-worden-afgesloten.html?referrer=https%3A%2F%2Fwww.google.com%2F
+
+Rol overheid bij internetveiligheid
+De overheid vindt een open, veilig en stabiel internet belangrijk. Het internet moet vrij zijn van invloed van overheden, bedrijven en andere belangengroepen. Daarom kiest de overheid voor een beperkte rol. En treedt alleen op als het echt nodig is. Bijvoorbeeld bij:
+
+de bescherming van consumenten;
+de bestrijding van cybercrime;
+de bewaking van de privacy en vrijheid van meningsuiting van burgers;
+de bescherming van de staatsveiligheid.
+
+Bron: https://www.rijksoverheid.nl/themas/economie/internet-radio-en-telefonie/veilig-gebruik-internet
+
+
 **20-11** 
 Practicum Grid 101 + Media queries
 <img width="1440" height="773" alt="Screenshot 2026-11-21 at 22 36 03" src="https://github.com/user-attachments/assets/b71e6bd7-67d8-497c-9067-bccf87437352" />
