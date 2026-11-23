@@ -1,4 +1,7 @@
 **Mobiel scherm**
+Ik heb de kleuren aangepast, maar ik weet nog niet zeker of dit mijn definitieve kleuren worden. Ik heb de website ook responsive gemaakt. Op een breder scherm worden de schilderijen naast elkaar in een rij weergegeven.
+<img width="1438" height="652" alt="Screenshot 2026-11-23 at 20 13 48" src="https://github.com/user-attachments/assets/588153a8-5d67-4d70-a1b6-50359f7cb2ae" />
+
 <img width="501" height="655" alt="Screenshot 2026-11-23 at 18 25 40" src="https://github.com/user-attachments/assets/3caea64d-b672-44c6-a1aa-d3097891bb07" />
 <img width="500" height="653" alt="Screenshot 2026-11-23 at 18 02 37" src="https://github.com/user-attachments/assets/24028294-b0b9-4d3f-a160-f8a188d20bd0" />
 <img width="1440" height="773" alt="Screenshot 2026-11-23 at 17 54 53" src="https://github.com/user-attachments/assets/68bfc536-be2b-4fdc-a6ee-c62f127d7305" />
