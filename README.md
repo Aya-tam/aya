@@ -1,3 +1,9 @@
+**24-11 Practicum Everything images**
+<img width="1440" height="780" alt="Screenshot 2026-11-24 at 17 34 48" src="https://github.com/user-attachments/assets/e877e4cb-10cb-42ca-af1c-9024e5f2f850" />
+<img width="1440" height="857" alt="Screenshot 2026-11-24 at 17 45 53" src="https://github.com/user-attachments/assets/14328457-c58e-4d87-8719-ffc8638a4c07" />
+<img width="569" height="592" alt="Screenshot 2026-11-24 at 17 49 12" src="https://github.com/user-attachments/assets/bcb806d7-992f-458e-b1dd-b7e7ddaa2e06" />
+
+
 **Mobiel scherm**
 Ik heb de kleuren aangepast, maar ik weet nog niet zeker of dit mijn definitieve kleuren worden. Ik heb de website ook responsive gemaakt. Op een breder scherm worden de schilderijen naast elkaar in een rij weergegeven.
 <img width="1438" height="652" alt="Screenshot 2026-11-23 at 20 13 48" src="https://github.com/user-attachments/assets/588153a8-5d67-4d70-a1b6-50359f7cb2ae" />
