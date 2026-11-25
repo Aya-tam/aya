@@ -1,3 +1,8 @@
+**25-11 Opdrachten tijdens de les**
+<img width="1572" height="2112" alt="CamScanner 25-11-2026 11 10(1)_1" src="https://github.com/user-attachments/assets/97490e14-4579-4f05-9a1a-8a9ff5035598" />
+<img width="2068" height="3016" alt="CamScanner 25-11-2026 11 10_1" src="https://github.com/user-attachments/assets/09c7f786-68f5-444a-87ca-a44a3deecefe" />
+
+
 **24-11 Practicum Everything images**
 <img width="1440" height="780" alt="Screenshot 2026-11-24 at 17 34 48" src="https://github.com/user-attachments/assets/e877e4cb-10cb-42ca-af1c-9024e5f2f850" />
 <img width="1440" height="857" alt="Screenshot 2026-11-24 at 17 45 53" src="https://github.com/user-attachments/assets/14328457-c58e-4d87-8719-ffc8638a4c07" />
