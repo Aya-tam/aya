@@ -1,3 +1,5 @@
+Ik heb een paar achtergrondbeelden gemaakt in Canva, omdat de eerste afbeelding die ik van Pinterest had gehaald een slechte kwaliteit had. Ik wilde juist een afbeelding van goede kwaliteit maken en de achtergrond ook een eigen uitstraling geven. Daarom heb ik een patroon met Arabische kalligrafie gebruikt, zodat de achtergrond wat persoonlijker en unieker wordt. De kalligrafie bevat verschillende betekenissen, maar het belangrijkste idee erachter is: **'Kunst is leven'.**
+
 <img width="1440" height="779" alt="Screenshot 2026-11-25 at 19 25 25" src="https://github.com/user-attachments/assets/27381ad3-6614-49c6-bf48-1d9dbfef6760" />
 
 
