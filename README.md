@@ -1,3 +1,7 @@
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/8a817a0f-448d-4ff8-b515-8cc4181a1e19" />
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/ee0fcdf3-9cdd-4b5c-a0d4-ffafde31644f" />
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/ddee2e80-b3c1-4282-9e52-a71751d9d714" />
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/de47845f-6839-4722-84b1-484d7677c3cf" />
 Ik heb een paar achtergrondbeelden gemaakt in Canva, omdat de eerste afbeelding die ik van Pinterest had gehaald een slechte kwaliteit had. Ik wilde juist een afbeelding van goede kwaliteit maken en de achtergrond ook een eigen uitstraling geven. Daarom heb ik een patroon met Arabische kalligrafie gebruikt, zodat de achtergrond wat persoonlijker en unieker wordt. De kalligrafie bevat verschillende betekenissen, maar het belangrijkste idee erachter is: **'Kunst is leven'.**
 
 <img width="1440" height="779" alt="Screenshot 2026-11-25 at 19 25 25" src="https://github.com/user-attachments/assets/27381ad3-6614-49c6-bf48-1d9dbfef6760" />
