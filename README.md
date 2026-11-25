@@ -1,3 +1,12 @@
+**Check out 25-11** Gestalt principes: Symmetries, nabijheid en closure.
+Symmetrie: in het midden
+nabijheid: wat bij elkaar staan, hoort bij elkaar.
+closure: gehele vorm.
+
+Een grid maakt ontwerpen wat makkelijker, door grid te gebruiken wordt de formaat van de elementen bekend, zo wordt de site een geheel, dat helpt met de stijl ook.
+
+Ik neem balans, ik wil niet alles symmetrie hebben, maar juist een balans, verandering en beweging.
+
 **25-11 Opdrachten tijdens de les**
 <img width="1572" height="2112" alt="CamScanner 25-11-2026 11 10(1)_1" src="https://github.com/user-attachments/assets/97490e14-4579-4f05-9a1a-8a9ff5035598" />
 <img width="2068" height="3016" alt="CamScanner 25-11-2026 11 10_1" src="https://github.com/user-attachments/assets/09c7f786-68f5-444a-87ca-a44a3deecefe" />
