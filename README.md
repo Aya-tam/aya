@@ -1,3 +1,7 @@
+<img width="1440" height="779" alt="Screenshot 2026-11-25 at 19 25 25" src="https://github.com/user-attachments/assets/27381ad3-6614-49c6-bf48-1d9dbfef6760" />
+
+
+
 **Check out 25-11**  Gestaltprincipes: symmetrie, nabijheid en closure
 
 - **Symmetrie:** Elementen staan in het midden of zijn gelijk verdeeld.
